@@ -28,6 +28,7 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /></a>
   <img width="12" />
+  <a href="https://en.wikipedia.org/wiki/bootstrap_Database" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  /></a>
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="30" alt="mysql logo"  /></a>
   <img width="12" />
 
