@@ -19,7 +19,6 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 ## <img src="https://github.com/user-attachments/assets/28225e58-3792-4e01-8325-79bc0fbcc89e" width="30px" height="30px"> Technologies and Tools I use:
 <p>
   <div align="left">
-  <img align="right" height="240px" src="https://github.com/user-attachments/assets/262deb95-89bf-4685-99cd-276714fbf8e1"/>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> </a>
@@ -38,7 +37,8 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
   <img width="10" /> 
   <a href="https://en.wikipedia.org/wiki/Hibernate_(framework)" target="_blank"> <img src="https://github.com/user-attachments/assets/dcfdfd34-5d6b-45ba-a562-1ca6581cbe00" height="30" alt="hibernate logo!"/></a>
   <img width="10" />  
-
+  <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  /></a>
+  <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30"         
