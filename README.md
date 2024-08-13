@@ -1,12 +1,16 @@
 ## Hi there 👋 It's me Jeeva
 
-Software Developer 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+I'm a passionate and dedicated Java Full Stack Developer with a strong foundation in front-end,back-end technologies and database.I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only! clean and efficient but also effective in solving practical problems⛔.
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
+
+### What I Do
+- 🌱 I’ve recently completed a comprehensive Java Full Stack Web Development course, where I worked on projects like an online food delivery app and a blogging platform.
 - 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
+- 🏢 I'm now seeking my first professional role in the tech industry.
+- 🚀 I'm eager to apply my skills in a challenging and dynamic work environment.
+- 🌱 I’m currently learning DSA
+- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
