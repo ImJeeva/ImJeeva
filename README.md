@@ -38,7 +38,7 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
   <img width="10" /> 
   <a href="https://en.wikipedia.org/wiki/Hibernate_(framework)" target="_blank"> <img src="https://github.com/user-attachments/assets/dcfdfd34-5d6b-45ba-a562-1ca6581cbe00" height="30" alt="hibernate logo!"/></a>
   <img width="10" />  
-  <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  /></a>
+
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="12" />
