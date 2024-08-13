@@ -34,7 +34,7 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
   <a href="https://en.wikipedia.org/wiki/Jakarta_EE" target="_blank"> <img src="https://github.com/user-attachments/assets/1d643753-76db-4f6b-af2f-5ab60ca5ca7e" height="30" alt="JakartaEE logo!"/></a>
   <img width="12" /> 
   <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank"> <img src="https://github.com/user-attachments/assets/d53a79ec-2f29-40c6-a1a9-83bb4e20f27d" height="30" alt="spring logo!"/></a>  
-  <img width="10" /> <br>
+  <img width="10" /> 
   <a href="https://en.wikipedia.org/wiki/Hibernate_(framework)" target="_blank"> <img src="https://github.com/user-attachments/assets/dcfdfd34-5d6b-45ba-a562-1ca6581cbe00" height="30" alt="hibernate logo!"/></a>
   <img width="10" />  
 
