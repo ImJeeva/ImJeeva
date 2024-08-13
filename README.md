@@ -1,11 +1,11 @@
 ## Hi there 👋 It's me Jeeva
 
-I'm a passionate and dedicated Java Full Stack Developer with a strong foundation in front-end,back-end technologies and database.I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only! clean and efficient but also effective in solving practical problems⛔.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
+I'm a passionate and dedicated Java Full Stack Developer with a strong foundation in front-end,back-end technologies and database.I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only! clean and efficient but also effective in solving practical problems⛔.
 
 ### What I Do
 - 🌱 I’ve recently completed a comprehensive Java Full Stack Web Development course, where I worked on projects like an online food delivery app and a blogging platform.
-- 🌱 I’m currently learning DSA
+
 - 🏢 I'm now seeking my first professional role in the tech industry.
 - 🚀 I'm eager to apply my skills in a challenging and dynamic work environment.
 - 🌱 I’m currently learning DSA
