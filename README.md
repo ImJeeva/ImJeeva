@@ -17,11 +17,11 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 
 
 ## <img src="https://github.com/user-attachments/assets/28225e58-3792-4e01-8325-79bc0fbcc89e" width="30px" height="30px"> Technologies and Tools I use:
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img src="https://github.com/user-attachments/assets/1d643753-76db-4f6b-af2f-5ab60ca5ca7e" width="50" height="50" alt="JakartaEE logo!"/><img src="https://github.com/user-attachments/assets/d53a79ec-2f29-40c6-a1a9-83bb4e20f27d" width="50" height="50" alt="spring logo!"/><img src="https://github.com/user-attachments/assets/dcfdfd34-5d6b-45ba-a562-1ca6581cbe00" width="50" height="50"alt="hibernate logo!"/><img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" width="50" height="50"        
+  alt="eclipse logo"  />
 
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 
 
