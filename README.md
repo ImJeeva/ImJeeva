@@ -11,9 +11,9 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 - 🌱 I’m currently learning DSA
 
 
-- 📫 How to reach me :
+- 📫 How to reach me :linkedin.com/in/jeeva-‎-9a88b5282
 -  <a href="mailto:romanjeeva22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="linkedin.com/in/jeeva-‎-9a88b5282">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href=linkedin.com/in/jeeva-‎-9a88b5282>  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 ## <img src="https://github.com/user-attachments/assets/28225e58-3792-4e01-8325-79bc0fbcc89e" width="30px" height="30px"> Technologies and Tools I use:
