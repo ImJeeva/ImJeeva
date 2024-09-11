@@ -10,17 +10,17 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 - 🚀 I'm eager to apply my skills in a challenging and dynamic work environment.
 - 🌱 I’m currently learning DSA
  <h3>📫 How to reach me: </h3>
- <p>
-  
+ 
+ <p> 
 <a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeeva" height="40" width="40" /></a>
 
 <a href="https://www.hackerrank.com/profile/romanjeeva22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jeeva" height="40" width="40" /></a>
  
 <a href="https://leetcode.com/u/Im__Jeeva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jeeva" height="40" width="40" /></a>
 
-<a href="mailto:romanjeeva22@gmail.com"><img src="<img width="50" height="50" src="<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
+<a href="mailto:romanjeeva22@gmail.com"><img width="50" height="50" src="<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
 
-<p/>
+</p>
 
 
 
