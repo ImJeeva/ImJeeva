@@ -14,8 +14,8 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="jeeva" height="30" width="40" /></a>
-<a href="mailto:romanjeeva22@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jeeva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeeva" height="30" width="40" /></a>
+<a href="mailto:romanjeeva22@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="jeeva" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/romanjeeva22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeeva" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Im__Jeeva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeeva" height="30" width="40" /></a>
 </p>
