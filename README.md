@@ -15,18 +15,19 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 
    <div class="image-container">
         <a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
         </a>
         <a href="https://www.hackerrank.com/profile/romanjeeva22" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40">
         </a>
         <a href="https://leetcode.com/u/Im__Jeeva/" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
         </a>
         <a href="mailto:romanjeeva22@gmail.com">
-            <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" height="40">
+            <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" height="40">
         </a>
     </div>
+
 
 
 
