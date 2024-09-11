@@ -10,7 +10,6 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 - 🚀 I'm eager to apply my skills in a challenging and dynamic work environment.
 - 🌱 I’m currently learning DSA
 
-https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/
 - 📫 How to reach me :
 -  <a href="mailto:romanjeeva22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
