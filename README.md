@@ -11,8 +11,10 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
 - 🌱 I’m currently learning DSA
 
  <h3>📫 How to reach me: </h3>
- <a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/"> <img src = "https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Jeeva" height="40" width="40"/></a>https://www.hackerrank.com/dashboard
- <a href="[https://www.hackerrank.com/meenaspm2003](https://www.hackerrank.com/dashboard)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meenaspm2003" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/"> <img src = "https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Jeeva" 
+ height="40" width="40"/>
+ <a href="https://www.hackerrank.com/profile/romanjeeva22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-
+ readme-  generator/master/src/images/icons/Social/hackerrank.svg" alt="meenaspm2003" height="30" width="40" /></a>
 
  <a href="mailto:romanjeeva22@gmail.com"><img src="[![image](https://github.com/user-attachments/assets/e96cc700-870e-4c2c-bfcb-7506404621a6)](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)
 " alt ="jeeva" width = "40" height = "30"/></a>
