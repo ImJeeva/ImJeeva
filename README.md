@@ -51,6 +51,9 @@ I'm a passionate and dedicated Java Full Stack Developer with a strong foundatio
   <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30"         
   alt="eclipse logo"  /></a>
   </p>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenameena2003&show_icons=true&locale=en&layout=compact" alt="meenameena2003" /></p>
+
     
  
 
