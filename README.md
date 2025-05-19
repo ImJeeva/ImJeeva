@@ -1,14 +1,62 @@
-## Hi there 👋 It's me Jeeva
+# Hi there 👋 I'm Jeeva
 
-I'm a passionate and dedicated Java Full Stack Developer with a strong foundation in front-end,back-end technologies and database.I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only! clean and efficient but also effective in solving practical problems⛔.
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
+## 💻 Full Stack Java Developer
 
-### What I Do
-- 🌱 I’ve recently completed a comprehensive Java Full Stack Web Development course, where I worked on projects like an online food delivery app and a blogging platform.
+I'm a passionate and dedicated Java Full Stack Developer with experience in building real-world enterprise applications. I specialize in developing robust, scalable solutions using Java and related technologies, with a strong foundation in both front-end and back-end development.
 
-- 🏢 I'm now seeking my first professional role in the tech industry.
-- 🚀 I'm eager to apply my skills in a challenging and dynamic work environment.
-- 🌱 I’m currently learning DSA
+## 👨‍💻 Professional Experience
+
+- **Software Developer** (5+ months) - GreenSoft, Trichy, Tamil Nadu
+  - Currently developing an international project using Spring MVC architecture
+  - Implementing full-stack solutions with Java, Spring Framework, Hibernate, and MySQL
+  - Working with structured project organization including DAO patterns, controllers, and entity classes
+  - Building responsive front-end interfaces using HTML, CSS, and JavaScript
+  - Handling end-to-end development from database design to user interface
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Framework (MVC, Boot)
+- Hibernate ORM
+- Maven
+- REST APIs
+- JSP
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Databases
+- MySQL
+
+### Tools & Methodologies
+- Git & GitHub
+- Eclipse/IntelliJ IDEA
+- Agile Development
+- MVC Architecture
+
+## 🔭 Current Projects
+
+- Building a comprehensive international enterprise application using Spring MVC
+- Learning and implementing Spring Boot for microservice architecture
+- Advancing my knowledge in Data Structures and Algorithms
+
+## 🌱 Learning Journey
+
+- Recently completed a comprehensive Java Full Stack Web Development course
+- Previous projects include an online food delivery app and a blogging platform
+- Currently enhancing my Spring Boot and microservices knowledge
+- Focusing on DSA to improve problem-solving efficiency
+
+## 🚀 What I'm Looking For
+
+- Opportunities to contribute to challenging projects
+- Collaborative environments that value clean, efficient code
+- Continuous learning and growth in modern Java technologies
+- Connecting with fellow developers and tech enthusiasts
  <h3>📫 How to reach me: </h3>
  
 
