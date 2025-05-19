@@ -17,10 +17,9 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 
 ### Backend
 - Java
-- Spring Framework (MVC, Boot)
+- Spring Framework (MVC)
 - Hibernate ORM
 - Maven
-- REST APIs
 - JSP
 
 ### Frontend
@@ -34,21 +33,19 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 
 ### Tools & Methodologies
 - Git & GitHub
-- Eclipse/IntelliJ IDEA
-- Agile Development
+- Eclipse
 - MVC Architecture
 
 ## 🔭 Current Projects
 
 - Building a comprehensive international enterprise application using Spring MVC
-- Learning and implementing Spring Boot for microservice architecture
 - Advancing my knowledge in Data Structures and Algorithms
 
 ## 🌱 Learning Journey
 
-- Recently completed a comprehensive Java Full Stack Web Development course
-- Previous projects include an online food delivery app and a blogging platform
-- Currently enhancing my Spring Boot and microservices knowledge
+- Completed a comprehensive Java Full Stack Web Development course at TAP ACADEMY (Bengaluru)
+- Previous projects include an online food delivery app,customer management application and a blogging platform
+- Currently enhancing my Spring Boot
 - Focusing on DSA to improve problem-solving efficiency
 
 ## 🚀 What I'm Looking For
