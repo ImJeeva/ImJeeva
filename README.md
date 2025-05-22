@@ -15,14 +15,12 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 
 ## 🛠️ Tech Stack
 
-### Backend                                 ### Frontend
-- Bootstrap                                   - HTML5
-- Java                                        - CSS3
-- Spring Framework (MVC)                      - JavaScript
+### Backend
+- Java
+- Spring Framework (MVC)
 - Hibernate ORM
 - Maven
 - JSP
-
 
 ### Frontend
 - HTML5
@@ -102,7 +100,6 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 
     
  
-
 
 
 
