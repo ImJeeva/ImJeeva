@@ -1,70 +1,99 @@
-# 👋 Hi there, I'm Jeeva
+# Hi there 👋 I'm Jeeva
 
-## 💻 Full Stack Java Developer | From Chemistry to Code
+## 💻 Full Stack Java Developer
 
-I'm a passionate and determined Java Full Stack Developer who transitioned from a Chemistry background to the world of software development.
-
-### 🚀 My Journey
-After completing my B.Sc. in Chemistry (2022), I paused my M.Sc. studies to work as a Medical Representative at Alembic Pharma. I self-funded my Java Full Stack training at TAP Academy (Bangalore), bought my own laptop, and started building real-world software.
-
-Currently, I'm working at **Greensoft Groups** on an international construction admin panel project for a UAE client, handling **end-to-end full stack development** and **live deployment on AWS**.
+I'm a passionate and dedicated Java Full Stack Developer with experience in building real-world enterprise applications. I specialize in developing robust, scalable solutions using Java and related technologies, with a strong foundation in both frontend and backend development.
 
 ---
 
-### 🧰 Tech Stack
+## 👨‍💻 Professional Experience
 
-**Backend:**  
-- Java (Core & Advanced), JSP, Servlet  
-- JDBC, Spring MVC, Hibernate ORM  
-- Spring Data JPA, Maven  
+- **Software Developer (5+ months)** – GreenSoft, Trichy, Tamil Nadu  
+  - Developed a live international project using Spring MVC architecture  
+  - Handled end-to-end development using Java, Spring, Hibernate, MySQL  
+  - Built responsive UIs with HTML, CSS, JavaScript  
+  - Deployed applications using AWS EC2, RDS and Linux CLI  
+  - Followed MVC and DAO patterns for structured codebase  
+  - Trained 100+ students during internship drives
 
-**Frontend:**  
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java, JSP, Servlet  
+- Spring MVC, Spring Boot  
+- Hibernate ORM, Spring Data JPA  
+- Maven, JDBC
+
+### Frontend
 - HTML5, CSS3, Bootstrap  
-- JavaScript (Basic to Intermediate)  
+- JavaScript (learning advanced concepts & React)
 
-**Database:**  
-- MySQL, PostgreSQL  
+### Database
+- MySQL, PostgreSQL
 
-**Dev Tools & Deployment:**  
-- Eclipse, Git & GitHub  
-- Postman, Linux CLI  
-- AWS EC2, RDS, .pem SSH, HTTPS configuration  
-- Hostinger Domain & Webmail  
-
----
-
-### 🌱 Currently Learning
-- Advanced JavaScript & React.js  
-- Spring Boot  
-- DSA (Data Structures & Algorithms)  
+### Tools
+- Git, GitHub, Eclipse, VS Code  
+- Postman, AWS EC2 & RDS  
+- MVC Architecture, Linux CLI
 
 ---
 
-### 📌 Side Projects
-- Customer Management App  
-- Online Food Delivery App  
-- Blogging Platform  
-- Portfolio Website (with custom domain and AWS deployment)
+## 🌱 Learning Journey
+
+- Completed Full Stack Java Developer training at **TAP Academy (Bangalore)**  
+- Built and deployed projects like:
+  - **Construction Admin Panel** (live project for UAE-based company)  
+  - **Online Food Delivery App**  
+  - **Customer Management System**, **Blog App**, etc.  
+- Currently focusing on:
+  - **Spring Boot mastery**  
+  - **React.js**  
+  - **Data Structures & Algorithms**
 
 ---
 
-### 🧑‍🏫 Training & Mentoring
-- Conducted internship workshops for 100+ students at **CARE College, Trichy**
-- Taught Core Java, JDBC, MySQL, and backend concepts hands-on
+## 🚀 Goals
+
+- Land a high-impact Full Stack Java Developer role  
+- Work in a collaborative team and contribute to large-scale enterprise solutions  
+- Keep learning and improving every day  
+- Inspire others from non-IT backgrounds
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/)  
-[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:romanjeeva22@gmail.com)  
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/profile/romanjeeva22)  
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/Im__Jeeva/)
+<p>
+  <a href="https://www.linkedin.com/in/jeeva-%E2%80%8E-9a88b5282/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="mailto:romanjeeva22@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="30" />
+  </a>
+  <a href="https://leetcode.com/u/Im__Jeeva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/romanjeeva22" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" />
+  </a>
+</p>
 
 ---
 
-### 🧠 Motto
-> "When resources are limited, **passion** becomes your biggest asset."
+## 🧰 Technologies & Tools I Use
 
----
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+</p>
