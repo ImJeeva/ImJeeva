@@ -1,8 +1,11 @@
 # Hi there 👋 I'm Jeeva
 
-## 💻 Full Stack Java Developer
+## 💻 Full Stack Java Developer | From Chemistry to Code
 
-I'm a passionate and dedicated Java Full Stack Developer with experience in building real-world enterprise applications. I specialize in developing robust, scalable solutions using Java and related technologies, with a strong foundation in both frontend and backend development.
+I'm a passionate and determined Java Full Stack Developer who transitioned from a Chemistry background to the world of software development.
+
+### 🚀 My Journey
+After completing my B.Sc. in Chemistry, I paused my M.Sc. studies to work as a Medical Representative at Alembic Pharma(8 months). I self-funded my Java Full Stack training at TAP Academy (Bangalore), bought my own laptop, and started building real-world software.
 
 ---
 
@@ -10,11 +13,11 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 
 - **Software Developer (5+ months)** – GreenSoft, Trichy, Tamil Nadu  
   - Developed a live international project using Spring MVC architecture  
-  - Handled end-to-end development using Java, Spring, Hibernate, MySQL  
+  - Handled end-to-end development using Java, Spring MVC, Hibernate, MySQL  
   - Built responsive UIs with HTML, CSS, JavaScript  
-  - Deployed applications using AWS EC2, RDS and Linux CLI  
+  - Deployed applications using AWS EC2, RDS
   - Followed MVC and DAO patterns for structured codebase  
-  - Trained 100+ students during internship drives
+  - Trained 150+ students during internship drives and workshop(100+ CARE College of Engineering Students & Other College Students)
 
 ---
 
@@ -36,7 +39,7 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 ### Tools
 - Git, GitHub, Eclipse, VS Code  
 - Postman, AWS EC2 & RDS  
-- MVC Architecture, Linux CLI
+- MVC Architecture
 
 ---
 
@@ -59,7 +62,7 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
 - Land a high-impact Full Stack Java Developer role  
 - Work in a collaborative team and contribute to large-scale enterprise solutions  
 - Keep learning and improving every day  
-- Inspire others from non-IT backgrounds
+- Inspire others from non-IT backgrounds☺️
 
 ---
 
@@ -97,3 +100,4 @@ I'm a passionate and dedicated Java Full Stack Developer with experience in buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
 </p>
+
