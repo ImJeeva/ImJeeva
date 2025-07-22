@@ -93,11 +93,14 @@ After completing my B.Sc. in Chemistry, I paused my M.Sc. studies to work as a M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://img.icons8.com/color/48/bootstrap.png" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" height="30" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="30" />
 </p>
 
