@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jeeva
 
-## 💻 Full Stack Java Developer | From Chemistry to Code
+## 💻 Java Full Stack Developer | Developer by passion not by choice
 
 I'm a passionate and determined Java Full Stack Developer who transitioned from a Chemistry background to the world of software development.
 
