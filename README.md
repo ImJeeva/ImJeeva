@@ -15,7 +15,7 @@ I self-funded my Java Full Stack training at **TAP Academy (Bangalore)**, bought
 
 ## 👨‍💻 Professional Experience
 
-- **Software Developer (6+ months)** – GreenSoft, Trichy, Tamil Nadu  
+- **Software Developer (1+ Years)** – GreenSoft, Trichy, Tamil Nadu  
   - Developed a live international project using **Spring MVC architecture**  
   - End-to-end development using **Java, Spring MVC, Hibernate, MySQL**  
   - Built responsive UIs using **HTML, CSS, JavaScript**  
